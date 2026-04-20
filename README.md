@@ -1,17 +1,32 @@
-Hellow everyone!
-So i am a beginning python backend developer.
-Im 15 ears old and Im from Russia
+# 👋 hey, i'm ch3pyxx
 
-Id like to start my way with coding small and not really hard games. In the future i would like to become a full-stack wed developer or a software engineer(Yes, I know that the directions are radically different;) )
-So I will be glad to everyone who will help me with advice and deeds.
-Currently(11/18/2024):
-1) I'm planning to download a large (for me personally) game called maze(лабиринт) which is similar to the game Pac Man
-2) I also plan to post a prototype (so to speak beta version) of a game called ping pong
+16 y/o developer from Russia · learning C++, Python & Qt · building projects to actually understand things
 
-in fact, I’m not good at design (I’m really bad at this) so if you have any suggestions for adding or replacing old sounds/pictures/characters and the like, I’ll be only happy))
+![C++](https://img.shields.io/badge/C++-B5D4F4?style=flat&logoColor=0C447C&logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-C0DD97?style=flat&logoColor=27500A&logo=python)
+![Qt](https://img.shields.io/badge/Qt-CECBF6?style=flat&logoColor=3C3489&logo=qt)
+![Arduino](https://img.shields.io/badge/Arduino-9FE1CB?style=flat&logoColor=085041&logo=arduino)
 
-if you want to help me you 
+---
 
-you can send me your ideas on this telegram user: https://t.me/ch3pyx_try
+## 🔨 what i'm working on
 
-P.S thank you for your help and attention
+- **Qt Desktop Apps** — building cross-platform GUI apps, digging into signals/slots and UI patterns
+- **Maze Game (Python)** — pacman-style game with a built-in level editor
+- **Advanced Calculator (C++)** — handles long expressions, supports functions like storing a number for later use
+
+---
+
+## 🙋 a bit about me
+
+I'm 16, self-taught, and haven't picked a specialization yet — and that's fine.
+Right now I'm in the *"try everything"* phase: desktop apps, games, Arduino hardware.
+I like understanding how things work under the hood.
+
+**beyond code:** souls-like games · Arduino / hardware · low-level stuff · problem solving
+
+---
+
+## 📬 reach me
+
+[![Telegram](https://img.shields.io/badge/Telegram-channel-blue?style=flat&logo=telegram)](https://t.me/ch3pyxx_try)
