@@ -7,20 +7,13 @@
 ![Qt](https://img.shields.io/badge/Qt-CECBF6?style=flat&logoColor=3C3489&logo=qt)
 ![Arduino](https://img.shields.io/badge/Arduino-9FE1CB?style=flat&logoColor=085041&logo=arduino)
 
----
-
-## 🔨 what i'm working on
-
-- **Qt Desktop Apps** — building cross-platform GUI apps, digging into signals/slots and UI patterns
-- **Maze Game (Python)** — pacman-style game with a built-in level editor
-- **Advanced Calculator (C++)** — handles long expressions, supports functions like storing a number for later use
 
 ---
 
 ## 🙋 a bit about me
 
-I'm 16, self-taught, and haven't picked a specialization yet — and that's fine.
-Right now I'm in the *"try everything"* phase: desktop apps, games, Arduino hardware.
+I'm 16, self-taught, and haven't picked a specialization yet — and that's fine(I probably don't want to be a web dev).
+Right now I'm trying everything: desktop apps, games, Arduino hardware.
 I like understanding how things work under the hood.
 
 **beyond code:** souls-like games · Arduino / hardware · low-level stuff · problem solving
