@@ -13,7 +13,7 @@
 ## 🙋 a bit about me
 
 I'm 16, self-taught, and haven't picked a specialization yet — and that's fine(I probably don't want to be a web dev).
-Right now I'm trying everything: desktop apps, games, Arduino hardware.
+Right now I'm trying everything: desktop apps, games,telegram bots, Arduino hardware.
 I like understanding how things work under the hood.
 
 **beyond code:** souls-like games · Arduino / hardware · low-level stuff · problem solving
